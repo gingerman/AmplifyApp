@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Steve Says Hello World
+          Learn React Steve Says CHIMMICHANGA 
         </a>
       </header>
     </div>
