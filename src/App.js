@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="Sodium-Design-App-logo" alt="Sodium Design Logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          A design company not a mass production company.
         </p>
         <a
           className="App-link"
