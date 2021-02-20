@@ -1,4 +1,4 @@
-import logo from './sodium_design_logo_1_sq.png';
+import logo from './sodium_design_logo_1_horiz.png';
 import './App.css';
 
 function App() {
